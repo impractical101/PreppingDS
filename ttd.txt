@@ -1,0 +1,8 @@
+Things to Start with :- 
+
+1. A bit of Mathematics(Probability, Statistics, Linear Algebra and Calculus) -
+   Topics Covered
+	a.)  Measures of Central Tendency — Mean, Median, Mode
+   b.)  Measures of Variability — Variance, Standard Deviation
+	c.)
+
